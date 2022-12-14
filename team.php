@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'Team | MIT Global Startup Workshop 2018';
-$metaDescription = 'MIT Global Startup Workshop is coming to Thailand this year. Meet all our team!';
+$pageTitle = 'Team | MIT Global Startup Workshop 2023';
+$metaDescription = 'MIT Global Startup Workshop is coming to Greece this year. Meet all our team!';
 $specificKeywords = 'team, advisory board, organizing team, executive board';
 include('templates/nav-bar.php');
 ?>
